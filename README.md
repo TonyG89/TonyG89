@@ -1,5 +1,5 @@
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Marhey&size=26&duration=3000&pause=3000&color=5EFF09&background=1c1917&center=true&vCenter=true&width=1000px&lines=I'm+Web+Front-End+Developer;I'm+looking+for+a+job)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Marhey&size=26&duration=3000&pause=3000&color=5EFF09&background=1c1917&center=true&vCenter=true&width=1000px&lines=I'm+Web+Front-End+Developer)](https://git.io/typing-svg)
 
 [![CodeTime badge](https://img.shields.io/endpoint?style=plastic&url=https%3A%2F%2Fapi.codetime.dev%2Fshield%3Fid%3D17123%26project%3D%26in%3D86400000)](https://codetime.dev)
 [![CodeTime badge](https://img.shields.io/endpoint?style=plastic&url=https%3A%2F%2Fapi.codetime.dev%2Fshield%3Fid%3D17123%26project%3D%26in%3D604800000)](https://codetime.dev)
